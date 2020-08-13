@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+.container{
+    margin: 0 auto;
+    width: 650px;
+    margin-top: 150px;
+    border: 2px solid #b78846;
+    border-radius: 10px;
+}
+
+.container .transform-div{
+    margin: 60px;
+}
+
+.container .transform-div h1{
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+
+.container .transform-div input{
+    width: 85%;
+}
+
+.container .transform-div img{
+    position: absolute;
+    top: 241px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.container .transform-div p {
+    border: 0.5px solid white;
+    margin-top: 5px;
+}
+
+#waves{
+    position: absolute;
+    bottom: 0;
+}
+
